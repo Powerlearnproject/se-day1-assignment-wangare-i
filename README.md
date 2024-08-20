@@ -70,23 +70,16 @@ INvolves testing the entire system as a whole, if the system meets its functiona
 Acceptance
 System is released to the end user to verfiy that the software meets the business requiremnts and is ready for deployment.
 
-
-
-
 #Part 2: Introduction to AI and Prompt Engineering
-
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 promt engineering is the process of desinging inputs to effectively communicate and extract desired output from AI models,
  importance
  - Production of quality feedback
  - good prompt engineering reduces the need for multiple iterations to get the desired response.
  - Prompt engineering often involves testing and refining prompts based on the outputs generated. This iterative process helps users better understand how the AI model interprets different inputs, leading to continuous improvement in interactions.
- - 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 vague
 - "Tell me about software development."
   Improved Prompt:
 -explain the key differences between Agile and Waterfall methodologies in software development.
-
 the vague is too broad the improved one specifies exactly what aspect of software development is of interest
